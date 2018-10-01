@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mebenstein-tgm/cypress-example-kitchensink.svg?branch=master)](https://travis-ci.com/mebenstein-tgm/cypress-example-kitchensink)
+
 # Kitchen Sink [![renovate-app badge][renovate-badge]][renovate-app]
 
 ![kitchensink](https://cloud.githubusercontent.com/assets/1268976/14084252/e309e370-f4e7-11e5-9562-24f516563ac9.gif)
